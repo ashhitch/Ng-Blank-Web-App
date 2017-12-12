@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('planks-web-app App', () => {
+describe('ng-blank-web-app App', () => {
   let page: AppPage;
 
   beforeEach(() => {

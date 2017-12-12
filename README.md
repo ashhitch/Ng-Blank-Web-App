@@ -1,6 +1,18 @@
-# PlanksWebApp
+# Ng Blank Web App
+
+My starter files for Angular 5+ for rapid starting new projects and hacking about.
+
+WIP, but plan to add some simple examples to speed up getting started.
+
+In the box:
+
+- [Angular CLI](https://github.com/angular/angular-cli)
+- [NGRX Store](https://github.com/ngrx/store)
+- [Angular Material](https://material.angular.io/)
+- [Angular Flexlayout](https://github.com/angular/flex-layout)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
+
 
 ## Development server
 
